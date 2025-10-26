@@ -1,0 +1,1 @@
+SELECT * FROM stud_db.contact_details;
